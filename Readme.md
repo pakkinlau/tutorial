@@ -41,8 +41,10 @@ Roots: To write square roots, use the \sqrt command. For example, \sqrt{2} will 
 Greek letters: To write Greek letters, use the appropriate command. For example, \alpha will produce alpha.
 Summation and product symbols: To write summation and product symbols, use the \sum and \prod commands. For example, \sum_{i=1}^n i will produce the summation of i from 1 to n.
 
-These are just a few examples of the many LaTeX commands available for writing mathematical equations. To learn more, you can refer to LaTeX documentation or online resources.
+These are just a few examples of the many LaTeX commands available for writing mathematical equations. To learn more, you can refer to LaTeX documentation or online resources. More latex symbols: https://www.cmor-faculty.rice.edu/~heinken/latex/symbols.pdf
 
+
+---
 
 ### Scope
 1. Create 1 page, and then answer the question I gave 
