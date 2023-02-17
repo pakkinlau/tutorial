@@ -32,14 +32,14 @@ By following these tips, you can create a comprehensive and structured set of no
 $$\sum_{i=1}^n i = \frac{n(n+1)}{2}$$
 will produce the equation ∑(i=1 to n) i = n(n+1)/2.
 
-Writing LaTeX code:
-When writing LaTeX code for mathematical equations, it is important to follow the correct syntax and use the appropriate commands. Here are some commonly used LaTeX commands for mathematical equations:
+### Writing LaTeX code:
+- When writing LaTeX code for mathematical equations, it is important to follow the correct syntax and use the appropriate commands. Here are some commonly used LaTeX commands for mathematical equations:
 
-Superscripts and subscripts: To add superscripts or subscripts, use the ^ and _ symbols respectively. For example, a^2 will produce a squared and x_0 will produce x subscript 0.
-Fractions: To write fractions, use the \frac command. For example, \frac{a}{b} will produce a divided by b.
-Roots: To write square roots, use the \sqrt command. For example, \sqrt{2} will produce the square root of 2.
-Greek letters: To write Greek letters, use the appropriate command. For example, \alpha will produce alpha.
-Summation and product symbols: To write summation and product symbols, use the \sum and \prod commands. For example, \sum_{i=1}^n i will produce the summation of i from 1 to n.
+- Superscripts and subscripts: To add superscripts or subscripts, use the ^ and _ symbols respectively. For example, a^2 will produce a squared and x_0 will produce x subscript 0.
+- Fractions: To write fractions, use the \frac command. For example, \frac{a}{b} will produce a divided by b.
+- Roots: To write square roots, use the \sqrt command. For example, \sqrt{2} will produce the square root of 2.
+- Greek letters: To write Greek letters, use the appropriate command. For example, \alpha will produce alpha.
+- Summation and product symbols: To write summation and product symbols, use the \sum and \prod commands. For example, \sum_{i=1}^n i will produce the summation of i from 1 to n.
 
 These are just a few examples of the many LaTeX commands available for writing mathematical equations. To learn more, you can refer to LaTeX documentation or online resources. More latex symbols: https://www.cmor-faculty.rice.edu/~heinken/latex/symbols.pdf
 
